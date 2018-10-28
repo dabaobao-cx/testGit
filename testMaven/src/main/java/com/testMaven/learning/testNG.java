@@ -8,7 +8,9 @@ public class testNG {
     public void  test(){
         int a= 4,b=2;
         int c= a/b;
+        int d= a*b;
         System.out.print("a 除 b = "+c);
+        System.out.print("a 乘 b = "+d);
 
 
     }
