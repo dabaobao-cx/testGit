@@ -9,8 +9,8 @@ public class test1 {
         int a= 4,b=2;
         int c= a+b;
         int d= a-b;
-        System.out.print("a 加 b = "+c);
-        System.out.print("a 减 b = "+d);
+        System.out.println("a 加 b = "+c);
+        System.out.println("a 减 b = "+d);
 
     }
 
